@@ -1,1 +1,4 @@
 Welcome to Demo class Of devops..
+Devops tools are :
+a.>Git
+b.>Sonarqube
