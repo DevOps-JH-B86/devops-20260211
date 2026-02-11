@@ -2,3 +2,6 @@ Welcome to DevOps
 
 Courses offered:
 - DevOps
+
+Contact details
++91 99999 99999
