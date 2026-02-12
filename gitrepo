@@ -1,0 +1,8 @@
+git commands 
+ 
+ clone - git clone <url>
+ global config - git global config user.name "lavakumar148"
+ creating a new branch - git checkout -b <new branch>
+ add files to stage- git add<file name> or git add*
+ commit message -git commit -m "message"
+ 
