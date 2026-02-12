@@ -2,6 +2,7 @@ Welcome to DevOps
 
 Courses offered:
 - DevOps
+- Java
 
 Contact details
 +91 99999 99999
